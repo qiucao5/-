@@ -1,0 +1,3 @@
+3.8.0.3
+2023.06.03
+https://gitee.com/liushui_miaomiao/config/raw/master/version.txt
