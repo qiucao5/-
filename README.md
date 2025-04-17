@@ -1,4 +1,4 @@
-# -
+# 蜘蛛纸牌屋（全Java代码）-
 数据结构蜘蛛纸牌屋建立
 蜘蛛纸牌游戏共由 4 个部分组成， 分别  是 : Spider. Java、SpiderMenuBar. Java、PKCard. Java、AboutDialog.Java。
 
